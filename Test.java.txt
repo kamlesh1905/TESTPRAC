@@ -14,7 +14,13 @@ Test(int a , int b ,int c)
 {
 }
 
+void main()
+{
+}
 
+void mainnew()
+{
+}
 
 public static void main(String args[])
 {
