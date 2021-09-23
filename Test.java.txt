@@ -1,0 +1,16 @@
+class Test
+{
+	int a ,b;
+
+	Test()
+{
+}
+
+public static void main(String args[])
+{
+	Test T = new Test("Hello World")
+
+}
+
+
+}
